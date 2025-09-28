@@ -292,6 +292,7 @@ body {
     cursor: pointer;
     position: relative;
     box-shadow: 0 5px 15px var(--shadow);
+    text-decoration: none;
 }
 
 .feature-card:hover {
